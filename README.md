@@ -6,12 +6,9 @@ This project uses **text preprocessing, TF-IDF feature extraction, and a Logisti
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Live App
 
-🔗 Add your deployed Streamlit link here after deployment
-
-Example:
-https://your-app-name.streamlit.app
+🔗 https://fake-news-detection-nlp-slqcjtmqu7xdrbroybezrf.streamlit.app/
 
 ---
 
