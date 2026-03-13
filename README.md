@@ -36,19 +36,19 @@ The system processes news text, extracts meaningful features using **TF-IDF**, a
 ## 🔍 Machine Learning Workflow
 
 Dataset  
-↓  
+      ↓  
 Text Preprocessing (NLP)  
-↓  
+      ↓  
 TF-IDF Feature Extraction  
-↓  
+      ↓  
 Train/Test Split  
-↓  
+      ↓  
 Logistic Regression Model  
-↓  
+      ↓  
 Model Evaluation  
-↓  
+      ↓  
 Prediction System  
-↓  
+      ↓  
 Streamlit Web Application  
 
 ---
