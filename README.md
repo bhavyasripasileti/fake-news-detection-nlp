@@ -8,7 +8,7 @@ This project uses **text preprocessing, TF-IDF feature extraction, and a Logisti
 
 ## 🚀 Live App
 
-🔗 https://fake-news-detection-nlp-slqcjtmqu7xdrbroybezrf.streamlit.app/
+🔗 https://fake-news-detection-nlp-slqcjtmqu7xdrbroybezrf.streamlit.app
 
 ---
 
